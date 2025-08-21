@@ -1,0 +1,3 @@
+/Users/katiehe/CLionProjects/Silver/cmake-build-debug/CMakeFiles/Silver.dir
+/Users/katiehe/CLionProjects/Silver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/katiehe/CLionProjects/Silver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
